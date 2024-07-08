@@ -2,7 +2,7 @@
   description = ''Small program to get the current bing "today in bing" image and set it as wallpaper on mate-desktop.'';
 
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs/22.11";
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
     flake-utils.url = "github:numtide/flake-utils";
   };
 
